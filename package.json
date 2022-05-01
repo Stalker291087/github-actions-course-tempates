@@ -16,7 +16,7 @@
   "license": "MIT",
   "standard": {
     "env": [
-      "jest-jasmine2",
+      "jest",
       "browser"
     ]
   },
